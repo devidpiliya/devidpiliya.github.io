@@ -1,0 +1,12 @@
+.DS_Store
+serve.py
+assets/bg_park_guell.jpg
+assets/gaudi/
+assets/docs/
+assets/cases/vivarium_*
+assets/portraits/portrait_02_closeup.jpg
+assets/portraits/portrait_03_warm.jpg
+assets/portraits/portrait_04_jacket.jpg
+assets/portraits/portrait_05_studio.jpg
+assets/portraits/portrait_06_dramatic.jpg
+assets/portraits/portrait_07_coat.jpg
